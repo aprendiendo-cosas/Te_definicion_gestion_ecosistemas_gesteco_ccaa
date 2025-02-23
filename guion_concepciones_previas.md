@@ -32,8 +32,8 @@ Para guiar un poco la construcción de una definición consensuada de "gestión 
 + En el devenir de la conversación iremos identificando las competencias o conocimientos que los estudiantes deberán de adquirir para aprender a gestionar ecosistemas. Esto es muy importante porque nos ayudará a tomar conciencia de qué cosas necesitamos aprender. Esto contribuye a pasar de la fase de "incompetencia inconsciente" (no sé lo que no sé) a otra mucho más útil de "incompetencia consciente" (sé lo que no sé).
 
 + Los resultados de la conversación han plasmado en dos tipos de documentos:
-  + [Este](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2024_2025/presentacion/mapa_conocimientos_previos.xmind) mapa mental en el que el profesor anotó al vuelo los comentarios de los estudiantes. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).
-  + [Este](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2024_2025/presentacion/definicion_gestion_ecosistemas.pdf?raw=true) texto que contiene una especie de consenso de lo comentado durante la clase. Este texto nos permitirá definir de dónde partimos al inicio de la asignatura. Lo contrastaremos con los conocimientos adquiridos cuando finalice el cuatrimestre.
+  + [Este](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/raw/2024-2025/presentacion/mapa_conocimientos_previos.xmind) mapa mental en el que el profesor anotó al vuelo los comentarios de los estudiantes. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).
+  + [Este](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/raw/2024-2025/presentacion/definicion_consensuada_gestion_ecosistemas.pdf) texto que contiene una especie de consenso de lo comentado durante la clase. Este texto nos permitirá definir de dónde partimos al inicio de la asignatura. Lo contrastaremos con los conocimientos adquiridos cuando finalice el cuatrimestre.
 
 En este bloque no habrá ninguna actividad concreta a realizar por parte de los estudiantes. Pero el conocimiento adquirido será útil para otras actividades descritas en las siguientes secciones.
 
@@ -45,7 +45,7 @@ En este bloque no habrá ninguna actividad concreta a realizar por parte de los 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
