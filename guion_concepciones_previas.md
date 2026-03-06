@@ -72,9 +72,13 @@ El alumnado identificó vínculos metodológicos e instrumentales cruciales entr
 
 A modo de síntesis, se concluyó que, mientras las asignaturas previas aportan piezas individuales del rompecabezas, la gestión de ecosistemas es la disciplina encargada de aportar la visión sistémica necesaria para ensamblarlas todas de manera funcional.
 
-Por último, se propone la siguiente definición de Gestión de Ecosistemas:
+Además, se propone la siguiente definición de Gestión de Ecosistemas:
 
 > La gestión de ecosistemas es una disciplina que administra el territorio desde una perspectiva sistémica e integral —superando las intervenciones sectoriales o aisladas— con el propósito de extraer recursos de manera sostenible para el bienestar social. Su objetivo fundamental es mantener un equilibrio dinámico y funcional entre el entorno natural y la actividad antrópica, apoyándose en la evaluación objetiva de los impactos humanos y en la resolución científica de los conflictos sociales inherentes al uso del espacio.
+
+Por último, la IA nos ofrece una imagen que resume lo que hemos creado juntos:
+
+
 
 
 
