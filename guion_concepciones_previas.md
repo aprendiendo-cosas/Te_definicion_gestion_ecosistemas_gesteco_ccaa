@@ -10,7 +10,7 @@
 >
 > + **Duración**: Una hora aproximadamente
 
-
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/refs/tags/2025_2026/imagenes/portada.png)
 
 ## Objetivos del acto docente
 
@@ -31,13 +31,15 @@ Para guiar un poco la construcción de una definición consensuada de "gestión 
 + Conexiones con otras asignaturas: Una forma de definir algo es estudiar la posición de ese algo en el contexto de algo más grande. Así, ¿qué otras asignaturas os "suenan" parecidas?.
 + En el devenir de la conversación iremos identificando las competencias o conocimientos que los estudiantes deberán de adquirir para aprender a gestionar ecosistemas. Esto es muy importante porque nos ayudará a tomar conciencia de qué cosas necesitamos aprender. Esto contribuye a pasar de la fase de "incompetencia inconsciente" (no sé lo que no sé) a otra mucho más útil de "incompetencia consciente" (sé lo que no sé).
 
+
+
 ## Resultados de la dinámica
 
 Se realizó una grabación del audio de la sesión. Gracias a una IA se ha transcrito este contenido y se ha reestructurado para generar un texto legible. Se muestra a continuación:
 
 Aquí tienes la reestructuración del texto adaptada como una guía de estudio, cumpliendo con todos tus criterios. He utilizado un tono amigable, claro y académico para facilitar tu repaso.
 
-### Introducción a la Dinámica
+### Introducción
 
 Durante la primera sesión de la asignatura, se llevó a cabo una dinámica participativa con el objetivo de construir colectivamente una definición del concepto de "gestión de ecosistemas". A través de un diálogo abierto, el profesorado y el alumnado reflexionaron sobre el significado de esta disciplina, estructurando las aportaciones mediante un mapa mental. Esta actividad de debate resultó fundamental, ya que, al ser una especialidad científica relativamente reciente, carece de una definición clásica o estandarizada, haciendo indispensable la reflexión conjunta para asentar sus bases teóricas.
 
@@ -80,11 +82,15 @@ Por último, la IA nos ofrece una imagen que resume lo que hemos creado juntos:
 
 
 
+![Resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/refs/tags/2025_2026/imagenes/resumen_grafico.png)
+
 
 
 ### Material de apoyo
 
 Durante la dinámica, el profesor fue construyendo un mapa mental "al vuelo". Puedes descargar dicho mapa aquí. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).
+
+[Aquí](https://gemini.google.com/share/f0ec005685f7) puedes ver la conversación que mantuve con una IA para generar la transcripción y las imágenes que se muestran en este documento. 
 
 
 
