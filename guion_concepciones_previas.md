@@ -2,7 +2,7 @@
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
->  + **_Versión_**: 2024-2025
+>  + **_Versión_**: 2025-2026
 >
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 >
@@ -17,12 +17,12 @@
 - Dejar por escrito las ideas preliminares que tienen los estudiantes sobre el concepto de gestión de ecosistemas.
 - Identificar elementos de conocimiento necesario para aprender a gestionar ecosistemas. Es decir, ponernos en el ámbito de la incompetencia consciente con relación a la gestión de ecosistemas. 
 - Conocer nuestro punto de partida con relación a la asignatura.
-- Establecer relaciones de manera prelimianr con otras asignaturas del grado.
+- Establecer relaciones de manera prelimiar con otras asignaturas del grado.
 - Construir de manera colaborativa una definición preliminar de gestión de ecosistemas.
 
 
 
-## Hilo argumental
+## Forma de proceder durante la sesión
 
 Para guiar un poco la construcción de una definición consensuada de "gestión de ecosistemas", haremos una de lluvia de ideas sobre los siguientes aspectos:
 
@@ -31,13 +31,56 @@ Para guiar un poco la construcción de una definición consensuada de "gestión 
 + Conexiones con otras asignaturas: Una forma de definir algo es estudiar la posición de ese algo en el contexto de algo más grande. Así, ¿qué otras asignaturas os "suenan" parecidas?.
 + En el devenir de la conversación iremos identificando las competencias o conocimientos que los estudiantes deberán de adquirir para aprender a gestionar ecosistemas. Esto es muy importante porque nos ayudará a tomar conciencia de qué cosas necesitamos aprender. Esto contribuye a pasar de la fase de "incompetencia inconsciente" (no sé lo que no sé) a otra mucho más útil de "incompetencia consciente" (sé lo que no sé).
 
-+ Los resultados de la conversación han plasmado en dos tipos de documentos:
-  + [Este](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/raw/2024-2025/presentacion/mapa_conocimientos_previos.xmind) mapa mental en el que el profesor anotó al vuelo los comentarios de los estudiantes. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).
-  + [Este](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/raw/2024-2025/presentacion/definicion_consensuada_gestion_ecosistemas.pdf) texto que contiene una especie de consenso de lo comentado durante la clase. Este texto nos permitirá definir de dónde partimos al inicio de la asignatura. Lo contrastaremos con los conocimientos adquiridos cuando finalice el cuatrimestre.
+## Resultados de la dinámica
 
-En este bloque no habrá ninguna actividad concreta a realizar por parte de los estudiantes. Pero el conocimiento adquirido será útil para otras actividades descritas en las siguientes secciones.
+Se realizó una grabación del audio de la sesión. Gracias a una IA se ha transcrito este contenido y se ha reestructurado para generar un texto legible. Se muestra a continuación:
+
+Aquí tienes la reestructuración del texto adaptada como una guía de estudio, cumpliendo con todos tus criterios. He utilizado un tono amigable, claro y académico para facilitar tu repaso.
+
+### Introducción a la Dinámica
+
+Durante la primera sesión de la asignatura, se llevó a cabo una dinámica participativa con el objetivo de construir colectivamente una definición del concepto de "gestión de ecosistemas". A través de un diálogo abierto, el profesorado y el alumnado reflexionaron sobre el significado de esta disciplina, estructurando las aportaciones mediante un mapa mental. Esta actividad de debate resultó fundamental, ya que, al ser una especialidad científica relativamente reciente, carece de una definición clásica o estandarizada, haciendo indispensable la reflexión conjunta para asentar sus bases teóricas.
+
+### Definición y Atributos de la Gestión de Ecosistemas
+
+A lo largo de la clase, se identificaron varios atributos clave que caracterizan y definen a esta disciplina:
+
+* **Propósito de extracción sostenible:** No se trata de conservar un espacio por el mero hecho de conservarlo (lo cual ocurre de forma autónoma si no hay impacto humano), sino de administrar el medio para extraer recursos valiosos para el bienestar social, garantizando que esta extracción sea sustentable a largo plazo.
+* **Búsqueda de un equilibrio dinámico:** La gestión persigue un estado "sano" en la relación entre el entorno natural y la actividad antrópica. Se aclaró que este equilibrio no es estático ni implica inactividad; significa que el sistema conserva su capacidad de funcionar adecuadamente a pesar de las perturbaciones y los cambios.
+* **Visión sistémica frente a sectorial:** Se evidenció que, en la actualidad, aún no se sabe gestionar ecosistemas completos de manera holística, sino que se suele intervenir sobre componentes aislados (como una población animal concreta). El gran reto de la disciplina es superar esta visión fragmentada y mirar el territorio de arriba hacia abajo, integrando todas sus partes.
+* **Gestión de conflictos:** Dado que sobre un mismo territorio convergen múltiples intereses (ecológicos, económicos, recreativos, agrícolas), la gestión ambiental lleva inherente la aparición de conflictos sociales. Resolver estas fricciones mediante métodos científicos y protocolizados es una competencia fundamental.
+* **Trazabilidad y evaluación objetiva:** Para lograr un manejo eficaz, es imprescindible aprender a medir sistemáticamente el impacto de las intervenciones en el medio físico y evaluar posteriormente sus consecuencias teniendo en cuenta el contexto económico y climático.
+
+### Ejemplos Prácticos Analizados
+
+Durante el debate se propusieron diversos ejemplos reales. El análisis demostró que la mayoría de ellos representan gestiones sectoriales limitadas y no verdaderas intervenciones ecosistémicas integrales:
+
+* **Cotos de caza:** Aunque regulan de forma estricta la extracción cinegética, su legislación suele ignorar elementos vitales de la globalidad del ecosistema, como la conservación del suelo o el mantenimiento de los caudales de los ríos.
+* **Senderos y uso público:** Facilitan el uso recreativo del entorno natural, pero su diseño rara vez integra variables económicas locales o dinámicas biológicas complejas ajenas a la propia ruta.
+* **Explotaciones agrícolas:** Su foco está dirigido casi exclusivamente a la extracción productiva de biomasa para la alimentación, aislando el cultivo de la complejidad del ecosistema circundante.
+* **Repoblaciones forestales (ej. pinares):** A menudo se diseñan con el único propósito de frenar la erosión del suelo, descuidando gravemente otros factores sistémicos de gran importancia, como la biodiversidad del área territorial.
+* **Espacios protegidos:** Aunque a simple vista parezcan el paradigma ecológico a seguir, en numerosas ocasiones aíslan las dinámicas naturales ignorando las necesidades económicas, industriales y el bienestar social de las poblaciones que habitan en la zona.
+
+### Conexiones con Otras Disciplinas del Grado
+
+El alumnado identificó vínculos metodológicos e instrumentales cruciales entre esta materia y otras asignaturas estudiadas previamente en la titulación:
+
+* **Ecología, Zoología y Botánica:** Proveen el conocimiento base sobre las piezas bióticas concretas (especies, poblaciones y comunidades) que habitan el territorio.
+* **Meteorología y Climatología:** Ofrecen el contexto abiótico esencial para comprender las condiciones ambientales bajo las cuales operan los procesos del entorno.
+* **Administración y Legislación Ambiental:** Suministran el marco normativo general que regula las actividades y define las competencias de las distintas entidades públicas y privadas.
+* **Sistemas de Información Geográfica (SIG):** Se mencionaron como unas herramientas espaciales clave para poder entender y organizar el territorio geográfico de manera eficiente.
+
+A modo de síntesis, se concluyó que, mientras las asignaturas previas aportan piezas individuales del rompecabezas, la gestión de ecosistemas es la disciplina encargada de aportar la visión sistémica necesaria para ensamblarlas todas de manera funcional.
+
+Por último, se propone la siguiente definición de Gestión de Ecosistemas:
+
+> La gestión de ecosistemas es una disciplina que administra el territorio desde una perspectiva sistémica e integral —superando las intervenciones sectoriales o aisladas— con el propósito de extraer recursos de manera sostenible para el bienestar social. Su objetivo fundamental es mantener un equilibrio dinámico y funcional entre el entorno natural y la actividad antrópica, apoyándose en la evaluación objetiva de los impactos humanos y en la resolución científica de los conflictos sociales inherentes al uso del espacio.
 
 
+
+### Material de apoyo
+
+Durante la dinámica, el profesor fue construyendo un mapa mental "al vuelo". Puedes descargar dicho mapa aquí. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).
 
 
 
