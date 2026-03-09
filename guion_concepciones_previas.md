@@ -10,7 +10,7 @@
 >
 > + **Duración**: Una hora aproximadamente
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/refs/tags/2025_2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/refs/tags/2025-2026/imagenes/portada.png)
 *Sí, la IA se ha venido un poco arriba con esta imagen. Es muy psicodélica y esotérica....*
 
 
@@ -38,8 +38,6 @@ Para guiar un poco la construcción de una definición consensuada de "gestión 
 ## Resultados de la dinámica
 
 Se realizó una grabación del audio de la sesión. Gracias a una IA se ha transcrito este contenido y se ha reestructurado para generar un texto legible. Se muestra a continuación:
-
-Aquí tienes la reestructuración del texto adaptada como una guía de estudio, cumpliendo con todos tus criterios. He utilizado un tono amigable, claro y académico para facilitar tu repaso.
 
 ### Introducción
 
@@ -84,13 +82,13 @@ Por último, la IA nos ofrece una imagen que resume lo que hemos creado juntos:
 
 
 
-![Resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/refs/tags/2025_2026/imagenes/resumen_grafico.png)
+![Resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/refs/tags/2025-2026/imagenes/resumen_grafico.png)
 
 
 
 ### Material de apoyo
 
-Durante la dinámica, el profesor fue construyendo un mapa mental "al vuelo". Puedes descargar dicho mapa [aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/raw/2025_2026/presentacion/mapa_definicion_gestion_ecosistemas.xmind). Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).
+Durante la dinámica, el profesor fue construyendo un mapa mental "al vuelo". Puedes descargar dicho mapa [aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/raw/2025-2026/presentacion/mapa_definicion_gestion_ecosistemas.xmind). Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).
 
 [Aquí](https://gemini.google.com/share/f0ec005685f7) puedes ver la conversación que mantuve con una IA para generar la transcripción y las imágenes que se muestran en este documento. 
 
@@ -100,7 +98,7 @@ Durante la dinámica, el profesor fue construyendo un mapa mental "al vuelo". Pu
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
